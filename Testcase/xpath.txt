@@ -1,0 +1,16 @@
+Dynamic xpath - starts- with function
+		//input[starts-with(@id,'last_name')]
+		
+		contains function
+		//input[contains(@name,'email')]
+
+		AND & OR
+		//input[@type='text' and @name='first_name']
+		//input
+
+	xpath Axes method (Parent ,child,self )	
+	//tagname[@Attribute='Value']//parent::tagname
+	//tagname[@Atrribute='Value']//child::tagname
+	//tagname[@Atrribute='Value']//self::tagname		
+
+	xpath Axes method (Decsendant)
