@@ -1,0 +1,5 @@
+print("this is git testing")
+print("folders were cloned from remote repository")
+print("this file was created then this file was added")
+print("this file was commited")
+print("this file was pushed to remote repository")
