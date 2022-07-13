@@ -30,5 +30,7 @@ class Pokemon(MoveCharacter,JumpCharacter):
         
 p= Pokemon()
 
+# this is third commit
+
 p.movefwd()
 p.jump_level1()
